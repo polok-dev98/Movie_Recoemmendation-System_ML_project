@@ -8,7 +8,5 @@
 
  2.Run the Movie_Recommender_system.ipynb file.
 
- 3.open the editor terminal and run this command-> streamlit run app.py
+ 3.open the editor terminal and run this command-> streamlit run app.py.
  
- # Enjoy
-
